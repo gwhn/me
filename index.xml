@@ -36,7 +36,7 @@
 really want to put it in the static folder, so I&amp;rsquo;ll start by creating an images
 subfolder and see if that works.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://gwhn.github.io/me/img/me-portrait.jpg&#34; alt=&#34;Aren&#39;t I pretty&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;me-portrait.jpg&#34; alt=&#34;Aren&#39;t I pretty&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
